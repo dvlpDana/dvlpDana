@@ -6,7 +6,7 @@ I aim for development that puts users first.
 
 ***
 
-<h5 align="left"> ⚒ Techs Stack ⚒ </h3>
+<h4 align="left"> ⚒ Techs Stack ⚒ </h3>
 
 <p align="left">There are the techs I usually use.</p>
 
