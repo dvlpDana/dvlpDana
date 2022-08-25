@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f796c0,100:76aef1&height=300&section=header&text=DEV%20DANA&fontSize=80&fontAlign=30&fontAlignY=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f796c0,100:76aef1&height=350&section=header&text=DEV%20DANA&fontSize=80&fontAlign=30&fontAlignY=45&fontColor=ffffff&animation=fadeIn)
 
-#### Hi there🖐
+### Hi there🖐
 My name is dana. I'm a **front-end developer**.  
 I aim for development that puts users first.
 
 ***
 
-<h5 align="left"> ⚒ Tech Stack ⚒ </h3>
+<h5 align="left"> ⚒ Techs Stack ⚒ </h3>
+
+<p align="left">There are the techs I usually use.</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
